@@ -11,5 +11,6 @@ st.set_page_config(
 
 
 
-pg = st.navigation(["portada.py","recetas.py","Kobrish nadadora.py","Eduardo Cisternas.py","acondicionamiento fisico.py","quienes somos.py"])
+pg = st.navigation(["portada.py","recetas.py","kobrish nadadora.py","Eduardo Cisternas.py","acondicionamiento fisico.py","quienes somos.py"])
+
 pg.run()
